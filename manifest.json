@@ -1,0 +1,10 @@
+{
+  "id": "share-to-notion-block-update",
+  "name": "Share to Notion (Block Update)",
+  "version": "2.8.4",
+  "minAppVersion": "0.0.1",
+  "description": "Sync Obsidian markdown files to Notion databases. Fork of jxpeng98/obsidian-to-NotionNext with block-level update (preserves page ID instead of delete-and-recreate).",
+  "author": "EasyChris, jxpeng98, duangduang55",
+  "authorUrl": "https://github.com/duangduang55",
+  "isDesktopOnly": false
+}
